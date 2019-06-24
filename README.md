@@ -31,6 +31,9 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * The Northern Echo: [Rape and child abuse among crimes that never reached court](https://www.thenorthernecho.co.uk/news/17709873.rape-and-child-abuse-among-crimes-that-never-reached-court/) *17 June 2019*
 * Swindon Advertiser: [Police chief backs community orders](https://www.swindonadvertiser.co.uk/news/17710301.police-chief-backs-community-orders/) *17 June 2019*
 * Swindon Advertiser: [Experts argue the case for and against Community Resolutions](https://www.swindonadvertiser.co.uk/news/17709806.experts-argue-the-case-for-and-against-community-resolutions/) *17 June 2019*
+* Portsmouth: The News: [Robbers, sex offenders and drug traffickers among the thousands to dodge court in Hampshire as police issue 'resolution' orders instead](https://www.portsmouth.co.uk/news/crime/robbers-sex-offenders-and-drug-traffickers-among-the-thousands-to-dodge-court-in-hampshire-as-police-issue-resolution-orders-instead-1-8965168) *17 June 2019*
+* Sudbury Mercury: [Suffolk police second highest in country for 'Community Resolution' use](https://www.sudburymercury.co.uk/news/suffolk-constabulary-deal-with-more-than-10-000-crimes-informally-1-6108511) *17 June 2019*
+
 
 
 
