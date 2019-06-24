@@ -67,7 +67,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Gloucestershire Live: [Police defend use of Community Resolution Orders in sex, drugs and weapons offences](https://www.gloucestershirelive.co.uk/news/cheltenham-news/police-defend-use-community-resolution-2997833) *20 June 2019*
 * Northampton Chronicle & Echo: [Hundreds of violent criminals escape jail in Northamptonshire under community punishment law](https://www.northamptonchron.co.uk/news/crime/hundreds-of-violent-criminals-escape-jail-in-northamptonshire-under-community-punishment-law-1-8972060) *21 June 2019*
 * The Sun: [JEREMY CLARKSON It’s fine to commit crime… as long as getaway car sticks to the limit](https://www.thesun.co.uk/news/9349825/crime-next-prime-minister-clarkson/) *22 June 2019*
-
+* Derbyshire Times: [Derbyshire Police among forces most likely to settle cases out of court](
+https://www.derbyshiretimes.co.uk/news/crime/derbyshire-police-among-forces-most-likely-to-settle-cases-out-of-court-1-9836647) *22 June 2019*
 
 
 
