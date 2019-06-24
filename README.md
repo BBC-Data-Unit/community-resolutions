@@ -36,6 +36,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Portsmouth: The News: [Top lawyer shocked that people charged with rape are being allowed to dodge court](https://www.portsmouth.co.uk/news/crime/top-lawyer-shocked-that-people-charged-with-rape-are-being-allowed-to-dodge-court-1-8965170) *17 June 2019* 
 * Sudbury Mercury: [Suffolk police second highest in country for 'Community Resolution' use](https://www.sudburymercury.co.uk/news/suffolk-constabulary-deal-with-more-than-10-000-crimes-informally-1-6108511) *17 June 2019*
 * Ipswich Star: [Suffolk police second highest in country for 'Community Resolution' use](https://www.ipswichstar.co.uk/news/suffolk-constabulary-deal-with-more-than-10-000-crimes-informally-1-6108511) *17 June 2019*
+* Hexham Courant: [Northumbria Police hand out Community Resolution orders to offenders](https://www.hexham-courant.co.uk/news/17710500.northumbria-police-hand-out-community-resolution-orders-to-offenders/) *17 June 2019*
+* Wigan Today: [Getting away with it: Wigan criminals escape prosecution for serious offences](https://www.wigantoday.net/news/crime/getting-away-with-it-wigan-criminals-escape-prosecution-for-serious-offences-1-9825192) *17 June 2019*
 
 
 
