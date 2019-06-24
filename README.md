@@ -54,11 +54,18 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Droitwich Spa Advertiser: [Data reveals West Mercia Police's use of Community Resolutions](https://www.droitwichadvertiser.co.uk/news/17706959.data-reveals-west-mercia-polices-use-of-community-resolutions/) *17 June 2019*
 * Lancashire Telegraph: [Rapists and violent criminals given 'slap on the wrist'](https://www.lancashiretelegraph.co.uk/news/17707357.fear-for-victims-as-violent-criminals-and-sex-abusers-escape-court/) *17 June 2019*
 * Epping Forest Guardian: [Nearly half of possession of firearms crimes in Essex ended in community resolutions](https://www.eppingforestguardian.co.uk/news/17707756.nearly-half-of-possession-of-firearms-crimes-in-essex-ended-in-community-resolutions/) *17 June 2019*
+* Lancashire: The Gazette: [Here's why thousands of Lancashire's offenders have avoided criminal sentences since 2014](https://www.blackpoolgazette.co.uk/news/crime/here-s-why-thousands-of-lancashire-s-offenders-have-avoided-criminal-sentences-since-2014-1-9826036)  *17 June 2019*
+* Bolton News: [Fears victims are 'denied justice' as violent and sexual criminals spared court](https://www.theboltonnews.co.uk/news/17707243.fears-victims-are-denied-justice-as-violent-and-sexual-criminals-spared-court/) *17 June 2019*
+* Wales: The Leader: [Figures reveal that thousands of North Wales criminals avoid prosecution through community resolution orders](https://www.leaderlive.co.uk/news/17710444.figures-reveal-that-thousands-of-north-wales-criminals-avoid-prosecution-through-community-resolution-orders/) *17 June 2019*
+* The Sun: [ESCAPING PUNISHMENT Violent offenders including rapists and child abusers are avoiding criminal records despite admitting their offences](https://www.thesun.co.uk/news/9318046/rapists-child-abusers-skip-trial-community-resolution/) *18 June 2019*
+* The Times: [Police letting off sex offenders and thieves who say they are sorry](https://www.thetimes.co.uk/article/police-letting-off-sex-offenders-and-thieves-who-say-they-are-sorry-d97cb7pwg) *18 June 2019*
 * Daily Echo: [Thousand of crimes including sex offences and robbery dealt with controversial policing powers](https://www.dailyecho.co.uk/news/17712524.thousand-of-crimes-including-sex-offences-and-robbery-dealt-with-controversial-policing-powers/) *18 June 2019*
 * Hexham Courant: [Hexham's MP Guy Opperman reacts angrily to Northumbria Police use of community resolution orders](https://www.hexham-courant.co.uk/news/17713994.hexhams-mp-guy-opperman-reacts-angrily-to-northumbria-police-use-of-community-resolution-orders/) *18 June 2019*
 * Rutland & Stamford Mercury: [Police Community Resolutions are 'used sensibly' in Stamford, Bourne and the Deepings](https://www.stamfordmercury.co.uk/news/police-inspector-defends-common-sense-approach-to-prosecution-9073771/) *18 June 2019*
 * Police Professional: [Police use of community resolutions will decrease through new strategy](https://www.policeprofessional.com/news/police-use-of-community-resolutions-will-decrease-through-new-strategy/) *19 June 2019*
 * Gloucestershire Live: [Police defend use of Community Resolution Orders in sex, drugs and weapons offences](https://www.gloucestershirelive.co.uk/news/cheltenham-news/police-defend-use-community-resolution-2997833) *20 June 2019*
+* The Sun: [JEREMY CLARKSON It’s fine to commit crime… as long as getaway car sticks to the limit](https://www.thesun.co.uk/news/9349825/crime-next-prime-minister-clarkson/) *22 June 2019*
+
 
 
 
