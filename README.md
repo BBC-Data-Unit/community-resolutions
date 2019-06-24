@@ -52,6 +52,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Hexham Courant: [Hexham's MP Guy Opperman reacts angrily to Northumbria Police use of community resolution orders](https://www.hexham-courant.co.uk/news/17713994.hexhams-mp-guy-opperman-reacts-angrily-to-northumbria-police-use-of-community-resolution-orders/) *18 June 2019*
 * Rutland & Stamford Mercury: [Police Community Resolutions are 'used sensibly' in Stamford, Bourne and the Deepings](https://www.stamfordmercury.co.uk/news/police-inspector-defends-common-sense-approach-to-prosecution-9073771/) *18 June 2019*
 * Police Professional: [Police use of community resolutions will decrease through new strategy](https://www.policeprofessional.com/news/police-use-of-community-resolutions-will-decrease-through-new-strategy/) *19 June 2019*
+* Gloucestershire Live: [Police defend use of Community Resolution Orders in sex, drugs and weapons offences](https://www.gloucestershirelive.co.uk/news/cheltenham-news/police-defend-use-community-resolution-2997833) *20 June 2019*
 
 
 
