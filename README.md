@@ -31,6 +31,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * The Northern Echo: [Rape and child abuse among crimes that never reached court](https://www.thenorthernecho.co.uk/news/17709873.rape-and-child-abuse-among-crimes-that-never-reached-court/) *17 June 2019*
 * The Northern Echo: [The pros and cons of police using out of court disposals](https://www.thenorthernecho.co.uk/news/17709901.the-pros-and-cons-of-police-using-out-of-court-disposals/?ref=twtrec) *17 June 2019*
 * The Telegraph: [Violent offenders avoiding criminal records through controversial community resolutions](https://www.telegraph.co.uk/news/2019/06/17/violent-offenders-avoiding-criminal-records-controversial-community/) *17 June 2019*
+* Daily Star: [Police use 'community resolutions' to deal with sex assaults and knife crime OUT of court](https://www.dailystar.co.uk/news/latest-news/786191/police-crime-news-uk-london-stabbings-met-courts) *17 June 2019* 
 * Swindon Advertiser: [Police chief backs community orders](https://www.swindonadvertiser.co.uk/news/17710301.police-chief-backs-community-orders/) *17 June 2019*
 * Swindon Advertiser: [Experts argue the case for and against Community Resolutions](https://www.swindonadvertiser.co.uk/news/17709806.experts-argue-the-case-for-and-against-community-resolutions/) *17 June 2019*
 * Portsmouth: The News: [Robbers, sex offenders and drug traffickers among the thousands to dodge court in Hampshire as police issue 'resolution' orders instead](https://www.portsmouth.co.uk/news/crime/robbers-sex-offenders-and-drug-traffickers-among-the-thousands-to-dodge-court-in-hampshire-as-police-issue-resolution-orders-instead-1-8965168) *17 June 2019*
@@ -64,6 +65,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Rutland & Stamford Mercury: [Police Community Resolutions are 'used sensibly' in Stamford, Bourne and the Deepings](https://www.stamfordmercury.co.uk/news/police-inspector-defends-common-sense-approach-to-prosecution-9073771/) *18 June 2019*
 * Police Professional: [Police use of community resolutions will decrease through new strategy](https://www.policeprofessional.com/news/police-use-of-community-resolutions-will-decrease-through-new-strategy/) *19 June 2019*
 * Gloucestershire Live: [Police defend use of Community Resolution Orders in sex, drugs and weapons offences](https://www.gloucestershirelive.co.uk/news/cheltenham-news/police-defend-use-community-resolution-2997833) *20 June 2019*
+* Northampton Chronicle & Echo: [Hundreds of violent criminals escape jail in Northamptonshire under community punishment law](https://www.northamptonchron.co.uk/news/crime/hundreds-of-violent-criminals-escape-jail-in-northamptonshire-under-community-punishment-law-1-8972060) *21 June 2019*
 * The Sun: [JEREMY CLARKSON It’s fine to commit crime… as long as getaway car sticks to the limit](https://www.thesun.co.uk/news/9349825/crime-next-prime-minister-clarkson/) *22 June 2019*
 
 
