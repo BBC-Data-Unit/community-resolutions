@@ -63,8 +63,11 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Daily Echo: [Thousand of crimes including sex offences and robbery dealt with controversial policing powers](https://www.dailyecho.co.uk/news/17712524.thousand-of-crimes-including-sex-offences-and-robbery-dealt-with-controversial-policing-powers/) *18 June 2019*
 * Hexham Courant: [Hexham's MP Guy Opperman reacts angrily to Northumbria Police use of community resolution orders](https://www.hexham-courant.co.uk/news/17713994.hexhams-mp-guy-opperman-reacts-angrily-to-northumbria-police-use-of-community-resolution-orders/) *18 June 2019*
 * Rutland & Stamford Mercury: [Police Community Resolutions are 'used sensibly' in Stamford, Bourne and the Deepings](https://www.stamfordmercury.co.uk/news/police-inspector-defends-common-sense-approach-to-prosecution-9073771/) *18 June 2019*
+* Express & Star: [Modern justice, or a soft option?](https://www.expressandstar.com/news/crime/2019/06/18/modern-justice-or-a-soft-option/) *18 June 2019*
 * Police Professional: [Police use of community resolutions will decrease through new strategy](https://www.policeprofessional.com/news/police-use-of-community-resolutions-will-decrease-through-new-strategy/) *19 June 2019*
 * Gloucestershire Live: [Police defend use of Community Resolution Orders in sex, drugs and weapons offences](https://www.gloucestershirelive.co.uk/news/cheltenham-news/police-defend-use-community-resolution-2997833) *20 June 2019*
+* Nantwich News: [Criminal Resolution Orders used in Cheshire for serious offences](https://thenantwichnews.co.uk/2019/06/20/criminal-resolution-orders-used-in-cheshire-for-serious-offences/) *20 June 2019*
+
 * Northampton Chronicle & Echo: [Hundreds of violent criminals escape jail in Northamptonshire under community punishment law](https://www.northamptonchron.co.uk/news/crime/hundreds-of-violent-criminals-escape-jail-in-northamptonshire-under-community-punishment-law-1-8972060) *21 June 2019*
 * The Sun: [JEREMY CLARKSON It’s fine to commit crime… as long as getaway car sticks to the limit](https://www.thesun.co.uk/news/9349825/crime-next-prime-minister-clarkson/) *22 June 2019*
 * Derbyshire Times: [Derbyshire Police among forces most likely to settle cases out of court](
