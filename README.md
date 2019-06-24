@@ -37,7 +37,12 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Sudbury Mercury: [Suffolk police second highest in country for 'Community Resolution' use](https://www.sudburymercury.co.uk/news/suffolk-constabulary-deal-with-more-than-10-000-crimes-informally-1-6108511) *17 June 2019*
 * Ipswich Star: [Suffolk police second highest in country for 'Community Resolution' use](https://www.ipswichstar.co.uk/news/suffolk-constabulary-deal-with-more-than-10-000-crimes-informally-1-6108511) *17 June 2019*
 * Hexham Courant: [Northumbria Police hand out Community Resolution orders to offenders](https://www.hexham-courant.co.uk/news/17710500.northumbria-police-hand-out-community-resolution-orders-to-offenders/) *17 June 2019*
+* 
 * Wigan Today: [Getting away with it: Wigan criminals escape prosecution for serious offences](https://www.wigantoday.net/news/crime/getting-away-with-it-wigan-criminals-escape-prosecution-for-serious-offences-1-9825192) *17 June 2019*
+* Nottinghamshire Live: [Violence, weapons and drugs: The 1,600 offences a year which don't appear on criminal records](https://www.nottinghampost.com/news/local-news/violence-weapons-drugs-1600-offences-2971064) *17 June 2019*
+
+* Daily Echo: [Thousand of crimes including sex offences and robbery dealt with controversial policing powers](https://www.dailyecho.co.uk/news/17712524.thousand-of-crimes-including-sex-offences-and-robbery-dealt-with-controversial-policing-powers/) *18 June 2019*
+* Hexham Courant: [Hexham's MP Guy Opperman reacts angrily to Northumbria Police use of community resolution orders](https://www.hexham-courant.co.uk/news/17713994.hexhams-mp-guy-opperman-reacts-angrily-to-northumbria-police-use-of-community-resolution-orders/) *18 June 2019*
 
 
 
