@@ -52,7 +52,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Bromsgrove Advertiser: [Data reveals West Mercia Police's use of Community Resolutions](https://www.bromsgroveadvertiser.co.uk/news/17706959.data-reveals-west-mercia-polices-use-of-community-resolutions/) *17 June 2019*
 * Redditch & Alcester Advertiser: [Data reveals West Mercia Police's use of Community Resolutions](https://www.redditchadvertiser.co.uk/news/17706959.data-reveals-west-mercia-polices-use-of-community-resolutions/) *17 June 2019*
 * Droitwich Spa Advertiser: [Data reveals West Mercia Police's use of Community Resolutions](https://www.droitwichadvertiser.co.uk/news/17706959.data-reveals-west-mercia-polices-use-of-community-resolutions/) *17 June 2019*
-* 
+* Lancashire Telegraph: [Rapists and violent criminals given 'slap on the wrist'](https://www.lancashiretelegraph.co.uk/news/17707357.fear-for-victims-as-violent-criminals-and-sex-abusers-escape-court/) *17 June 2019*
 * Daily Echo: [Thousand of crimes including sex offences and robbery dealt with controversial policing powers](https://www.dailyecho.co.uk/news/17712524.thousand-of-crimes-including-sex-offences-and-robbery-dealt-with-controversial-policing-powers/) *18 June 2019*
 * Hexham Courant: [Hexham's MP Guy Opperman reacts angrily to Northumbria Police use of community resolution orders](https://www.hexham-courant.co.uk/news/17713994.hexhams-mp-guy-opperman-reacts-angrily-to-northumbria-police-use-of-community-resolution-orders/) *18 June 2019*
 * Rutland & Stamford Mercury: [Police Community Resolutions are 'used sensibly' in Stamford, Bourne and the Deepings](https://www.stamfordmercury.co.uk/news/police-inspector-defends-common-sense-approach-to-prosecution-9073771/) *18 June 2019*
