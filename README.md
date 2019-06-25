@@ -76,13 +76,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 https://www.derbyshiretimes.co.uk/news/crime/derbyshire-police-among-forces-most-likely-to-settle-cases-out-of-court-1-9836647) *22 June 2019*
 * South Wales Argus: [Community Resolutions let criminals walk away without a record](https://www.southwalesargus.co.uk/news/17726971.community-resolutions-let-criminals-walk-away-without-a-record/) *24 June 2019*
 
-
-
-
-
-
-
-The story was also used by 
+The story was also used by BBC South East, East Midlands Today, Look North, BBC Surrey, BBC Sussex, BBC Radio Leicester, BBC Radio Stoke, BBC Tees, BBC Newcastle, BBC WM, BBC Radio Stoke and BBC Radio Leeds
 
 ## Get the data 
 
