@@ -75,6 +75,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Derbyshire Times: [Derbyshire Police among forces most likely to settle cases out of court](
 https://www.derbyshiretimes.co.uk/news/crime/derbyshire-police-among-forces-most-likely-to-settle-cases-out-of-court-1-9836647) *22 June 2019*
 * South Wales Argus: [Community Resolutions let criminals walk away without a record](https://www.southwalesargus.co.uk/news/17726971.community-resolutions-let-criminals-walk-away-without-a-record/) *24 June 2019*
+* Rochdale Online: [Informal punishments handed to criminals in Greater Manchester reduces](https://www.rochdaleonline.co.uk/news-features/2/news-headlines/128985/informal-punishments-handed-to-criminals-in-greater-manchester-reduces) *12 July 2019*
 
 The story was also used by BBC South East, [East Midlands Today](https://drive.google.com/open?id=1jf2cQBMoe_WjnWPjhRT_BN8vSUMJp7VJ), [BBC Look North](https://drive.google.com/open?id=1LN5nnjA-ibewpgRDN9KlmOYr3dHsGS-g), BBC Surrey, BBC Sussex, BBC Radio Leicester, BBC Radio Stoke, BBC Tees, BBC Newcastle, BBC WM, BBC Radio Stoke and BBC Radio Leeds
 
