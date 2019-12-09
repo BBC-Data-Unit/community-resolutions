@@ -47,8 +47,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Nottinghamshire Live: [Violence, weapons and drugs: The 1,600 offences a year which don't appear on criminal records](https://www.nottinghampost.com/news/local-news/violence-weapons-drugs-1600-offences-2971064) *17 June 2019*
 * Cumberland: News & Star: [Thousands of offenders escape prosecution](https://www.newsandstar.co.uk/news/17707426.thousands-of-offenders-escape-prosecution/) *17 June 2019*
 * Stourbridge News: [West Midlands Police defend use of community resolutions](https://www.stourbridgenews.co.uk/news/17707844.west-midlands-police-defend-use-of-community-resolutions/) *17 June 2019*
-* Dudley News: [West Midlands Police defend use of community resolutions] (https://www.dudleynews.co.uk/news/17707844.west-midlands-police-defend-use-of-community-resolutions/) *17 June 2019*
-* Halesowen News: [West Midlands Police defend use of community resolutions] (https://www.halesowennews.co.uk/news/17707844.west-midlands-police-defend-use-of-community-resolutions/) *17 June 2019*
+* Dudley News: [West Midlands Police defend use of community resolutions](https://www.dudleynews.co.uk/news/17707844.west-midlands-police-defend-use-of-community-resolutions/) *17 June 2019*
+* Halesowen News: [West Midlands Police defend use of community resolutions](https://www.halesowennews.co.uk/news/17707844.west-midlands-police-defend-use-of-community-resolutions/) *17 June 2019*
 * Kidderminster: The Shuttle: [Data reveals West Mercia Police's use of Community Resolutions](https://www.kidderminstershuttle.co.uk/news/17706959.data-reveals-west-mercia-polices-use-of-community-resolutions/) *17 June 2019*
 * Bromsgrove Advertiser: [Data reveals West Mercia Police's use of Community Resolutions](https://www.bromsgroveadvertiser.co.uk/news/17706959.data-reveals-west-mercia-polices-use-of-community-resolutions/) *17 June 2019*
 * Redditch & Alcester Advertiser: [Data reveals West Mercia Police's use of Community Resolutions](https://www.redditchadvertiser.co.uk/news/17706959.data-reveals-west-mercia-polices-use-of-community-resolutions/) *17 June 2019*
